@@ -7,8 +7,11 @@
   },
   "dependencies": {
     "@formatjs/intl-localematcher": "0.2.32",
+    "@portabletext/react": "^3.0.0",
+    "@sanity/image-url": "^1.0.2",
     "negotiator": "0.6.3",
     "next": "latest",
+    "next-sanity": "^4.3.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "server-only": "0.0.1"
